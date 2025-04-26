@@ -1,5 +1,5 @@
 # v1.0.0
-# Uploaded 25.4.2025.
+# Uploaded 26.4.2025.
 # by 6769742e646576
 import tkinter as tk
 from tkinter import filedialog
